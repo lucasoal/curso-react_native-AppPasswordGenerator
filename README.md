@@ -92,8 +92,6 @@ You can run it through the emulator by clicking on the option that will appear a
 
 If you have any question about the project...
 
-Email-me: lucasomarandradeleal@gmail.com
-
-Connect to my [Linkedin](https://linkedin.com/in/lucasomarandradeleal)
+Connect to my [Linkedin](https://linkedin.com/in/lucasoal)
 
 Thank you!
